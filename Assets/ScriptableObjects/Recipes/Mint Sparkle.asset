@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f993674622e34ce47a4100f872037409, type: 3}
+  m_Name: Mint Sparkle
+  m_EditorClassIdentifier: 
+  drinkName: Mint Sparkle
+  drinkDescription: 
+  drinkSprite: {fileID: 5024631724850428973, guid: e118b7d14afc021479180595e1d8cc19, type: 3}
+  ingredients:
+  - {fileID: 11400000, guid: cb38db7b84af53e48af3cce41b1b202f, type: 2}
+  - {fileID: 11400000, guid: f54ae644ad7a56847bbecb66ef421def, type: 2}
+  - {fileID: 11400000, guid: b34b22869edf8404599d16e4573340d7, type: 2}
+  - {fileID: 11400000, guid: f26ddca811ebd784e8d75dbbc93d1dd2, type: 2}
+  drinkPrice: 200

@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: 030dc53750e2a1741a8336878f70768e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 448
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157313e8d37949249805787663a510ba
+      internalID: 378191651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 448
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0162767c79b03241bbbf6570fe9618f
+      internalID: 1639349342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 448
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046bbdc9d2f83354b84a1bda93cad8e3
+      internalID: 1302873251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 452
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecd38964628ccc4daf47ba62ee80a9a
+      internalID: -1521853529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 485
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6195c2d283fbde540b4594b43ba47f16
+      internalID: 164607349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 479
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0315041c27a976b4eb34a0b3732c7f4c
+      internalID: 931877731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 466
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58207724bef0afe4d94e8fb8fbf180c1
+      internalID: -460271604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 418
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e145877667d997a40b4f3b8aa00583a6
+      internalID: -1448043126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 451
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0cd0e31177a314d809a6b7e721338f
+      internalID: 1151789975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 448
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c300ed8d496d6cf4da51c3cd8f01265d
+      internalID: 1017271145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 384
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4774d8111bc65584a87b9471a4b42763
+      internalID: 487474261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 256
+        width: 60
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03da173b951da804a988e1f4e6b2e1d0
+      internalID: -665886931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 384
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1162e7722f0092e48993069a70d2a110
+      internalID: -1752082888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 384
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780d9685ae944b44185c4a68371a749a
+      internalID: 1642723519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3068503b15a812e47b5158780f2abc49
+      internalID: 55063877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 320
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706448b27ee8fb54689e652a86f1241b
+      internalID: 883449706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 320
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861dcb1620512ce479ac747494ab341f
+      internalID: 1854523544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 356
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cb5b14f7d2888499abc51872de631b
+      internalID: 636860781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_18
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 355
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c00517eab21bc64187059fd18829f73
+      internalID: -2113128613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 379
+        width: 160
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f5f908784605742aa21fd027f2a856
+      internalID: 901410352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 325
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523473e87c6a1bb42b2f75dd8cb8b389
+      internalID: 860055012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_21
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 324
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9429beff2752eb4697f8c755e2e7345
+      internalID: 338694861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 160
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cd640e68f0e97499c86004dd06d49f
+      internalID: 459277238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 256
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e8122da5c10234b833a81c2af33b13
+      internalID: -381638557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679872e4aadda974d9799389cfaf5f8f
+      internalID: -1444576903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 293
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcba178d907e7c040b2d291d6e18419d
+      internalID: -1860922260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_26
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 292
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be93c0cb0b016a346b1a4dea85cc0106
+      internalID: -1186546695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 261
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea434e0e9eec7e45ba7124c4de81afb
+      internalID: -583793180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 261
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23b9f88b9aa8054185cd5d3fc390d58
+      internalID: -195366176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 194
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80282d6fe27f6f4792cdce97802be69
+      internalID: 774522055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 194
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241745cf7ceadd141918d849408655ae
+      internalID: 32999628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 194
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7ea60a7f752f740a8850fca1908c89
+      internalID: 1760568941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 229
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbb7b854b4dc0e4a8dfc3f33496b09f
+      internalID: 712789992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 229
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12da5fa68aefd94d9df7b769a025df0
+      internalID: -1099762415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 220
+        width: 161
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc628517e8d6414cb9903b934c8d59d
+      internalID: -2076334298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f8ec90c36a10347ad20a34a9b2cd36
+      internalID: 1109595643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 130
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7d65476d96f77429b44e04b802a6c6
+      internalID: 418137455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 130
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c1351f20d6077458fc2203a275831e
+      internalID: -485013546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 184
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1d4c45d639ae54080e3394f9c89d9e
+      internalID: 1497725423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f474afda612be4894e7949a918b973
+      internalID: -1774981005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 66
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8891ec4b14337f446b3066bc0dd28111
+      internalID: 1803430935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 66
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41eee6d5cff6b34384a9a07407bd6a2
+      internalID: -1613290707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d218a822f9bcb4fbd498134646ee6e
+      internalID: -1571297365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_43
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942c8e2eba1a60943b413f4c4ef4d43b
+      internalID: -1344196523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 207
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eb9b44b2b006d42a09b884cb8c4196
+      internalID: -107759840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_0: 378191651
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_1: 1639349342
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_10: 487474261
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_11: -665886931
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_12: -1752082888
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_13: 1642723519
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_14: 55063877
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_15: 883449706
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_16: 1854523544
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_17: 636860781
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_18: -2113128613
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_19: 901410352
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_2: 1302873251
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_20: 860055012
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_21: 338694861
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_22: 459277238
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_23: -381638557
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_24: -1444576903
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_25: -1860922260
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_26: -1186546695
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_27: -583793180
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_28: -195366176
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_29: 774522055
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_3: -1521853529
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_30: 32999628
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_31: 1760568941
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_32: 712789992
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_33: -1099762415
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_34: -2076334298
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_35: 1109595643
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_36: 418137455
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_37: -485013546
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_38: 1497725423
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_39: -1774981005
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_4: 164607349
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_40: 1803430935
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_41: -1613290707
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_42: -1571297365
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_43: -1344196523
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_44: -107759840
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_5: 931877731
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_6: -460271604
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_7: -1448043126
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_8: 1151789975
+      inside_d_barset_tables_bar_parts_and_shelves__by_thebigtricky_db0dg2n_9: 1017271145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

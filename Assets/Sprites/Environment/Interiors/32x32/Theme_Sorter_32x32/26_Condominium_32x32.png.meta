@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 941ab3075c4154b488e1ecf4239b8c28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -340161191570812964
+    second: 26_Condominium_32x32_0
+  - first:
+      213: -6789792136030715158
+    second: 26_Condominium_32x32_1
+  - first:
+      213: -4627189304696076087
+    second: 26_Condominium_32x32_2
+  - first:
+      213: 1992726857307536951
+    second: 26_Condominium_32x32_3
+  - first:
+      213: -8358832676423796239
+    second: 26_Condominium_32x32_4
+  - first:
+      213: 1842011054736384621
+    second: 26_Condominium_32x32_5
+  - first:
+      213: 5414535092135783618
+    second: 26_Condominium_32x32_6
+  - first:
+      213: 4870939637060311312
+    second: 26_Condominium_32x32_7
+  - first:
+      213: -7848255925344405860
+    second: 26_Condominium_32x32_8
+  - first:
+      213: 2942895054360673374
+    second: 26_Condominium_32x32_9
+  - first:
+      213: -426118888533449810
+    second: 26_Condominium_32x32_10
+  - first:
+      213: 7122493157966757321
+    second: 26_Condominium_32x32_11
+  - first:
+      213: -9083351862504608897
+    second: 26_Condominium_32x32_12
+  - first:
+      213: -6939865221390047306
+    second: 26_Condominium_32x32_13
+  - first:
+      213: -8335481775026435600
+    second: 26_Condominium_32x32_14
+  - first:
+      213: 925533149593279535
+    second: 26_Condominium_32x32_15
+  - first:
+      213: -5891611332565711132
+    second: 26_Condominium_32x32_16
+  - first:
+      213: 3378092829155467723
+    second: 26_Condominium_32x32_17
+  - first:
+      213: 430343995480311269
+    second: 26_Condominium_32x32_18
+  - first:
+      213: -6747290605177770314
+    second: 26_Condominium_32x32_19
+  - first:
+      213: 8544086882281229397
+    second: 26_Condominium_32x32_20
+  - first:
+      213: -7087839419152936787
+    second: 26_Condominium_32x32_21
+  - first:
+      213: -3460327480945668655
+    second: 26_Condominium_32x32_22
+  - first:
+      213: 7647105048034160384
+    second: 26_Condominium_32x32_23
+  - first:
+      213: -580819452317842505
+    second: 26_Condominium_32x32_24
+  - first:
+      213: -6344466329764974858
+    second: 26_Condominium_32x32_25
+  - first:
+      213: 1469515462123886608
+    second: 26_Condominium_32x32_26
+  - first:
+      213: 5808363235193742858
+    second: 26_Condominium_32x32_27
+  - first:
+      213: 8500374315249884323
+    second: 26_Condominium_32x32_28
+  - first:
+      213: 7898859089498794550
+    second: 26_Condominium_32x32_29
+  - first:
+      213: 8201452461934653583
+    second: 26_Condominium_32x32_30
+  - first:
+      213: 4879155842140463292
+    second: 26_Condominium_32x32_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

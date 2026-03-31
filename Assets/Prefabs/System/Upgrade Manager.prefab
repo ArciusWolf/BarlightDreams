@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7416173807216977600
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9011186145060269691}
+  - component: {fileID: 520833017569453983}
+  m_Layer: 0
+  m_Name: Upgrade Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9011186145060269691
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7416173807216977600}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.89293, y: -1.18646, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &520833017569453983
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7416173807216977600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0e307d2f267d647baa3b665e414625, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resetOnStart: 1
+  allUpgrades:
+  - type: 0
+    displayName: Max Lives
+    description: Increase player max lives by 1
+    currentLevel: 0
+    maxLevel: 2
+    costPerLevel: f401000088130000
+    valuePerLevel:
+    - 1
+    - 1
+  - type: 1
+    displayName: Faster Mix
+    description: Increase "Mixing Machine" speed
+    currentLevel: 0
+    maxLevel: 10
+    costPerLevel: 96000000
+    valuePerLevel:
+    - 0.15
+  - type: 2
+    displayName: Increase Income
+    description: Increase Drink profit
+    currentLevel: 0
+    maxLevel: 10
+    costPerLevel: 96000000
+    valuePerLevel:
+    - 0.1
+  - type: 3
+    displayName: Tip Chances
+    description: Increase chances to be tipped by customer
+    currentLevel: 0
+    maxLevel: 10
+    costPerLevel: d0070000
+    valuePerLevel:
+    - 5

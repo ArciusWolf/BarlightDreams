@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e9fb57a63613524591ac342f9770e80, type: 3}
+  m_Name: MysteryDrinkSO
+  m_EditorClassIdentifier: 
+  drinkName: Mystery Drink
+  drinkDescription: Uhhh, you made something... Maybe it's drinkable?
+  drinkSprite: {fileID: 21300000, guid: ba58d8e10170f4c449fa1eecc2eaeab5, type: 3}
+  lovedSFX: {fileID: 0}
+  neutralSFX: {fileID: 0}
+  hatedSFX: {fileID: 0}
+  lovedQuotes:
+  - "I didn\u2019t know I needed this until now!"
+  - This is amazing!
+  - Unexpected, but absolutely delicious!
+  - How did you make this?!
+  neutralQuotes:
+  - Hmm... not bad.
+  - Kinda weird, but okay.
+  - I guess it'll do.
+  - "It\u2019s... drinkable."
+  - Not what I expected, but sure.
+  hatedQuotes:
+  - What is this garbage?!
+  - Did you mix it with dishwater?!
+  - That's disgusting!
+  - "I\u2019m never coming back here!"
+  - That ruined my day.

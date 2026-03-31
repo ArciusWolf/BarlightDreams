@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: d90d8618166dfaf4db20999236c1ec4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3049791997077327393
+    second: Inside_Bv2_0
+  - first:
+      213: 3415053806598114902
+    second: Inside_Bv2_1
+  - first:
+      213: 918067445166987939
+    second: Inside_Bv2_2
+  - first:
+      213: -4184039053138683675
+    second: Inside_Bv2_3
+  - first:
+      213: 4670489652570945144
+    second: Inside_Bv2_4
+  - first:
+      213: 1306334751340065034
+    second: Inside_Bv2_5
+  - first:
+      213: -1430818002030170099
+    second: Inside_Bv2_6
+  - first:
+      213: 7260999110409795628
+    second: Inside_Bv2_7
+  - first:
+      213: 1247402751539594886
+    second: Inside_Bv2_8
+  - first:
+      213: 40262442910235702
+    second: Inside_Bv2_9
+  - first:
+      213: -9136201095210038142
+    second: Inside_Bv2_10
+  - first:
+      213: -2886654013982129676
+    second: Inside_Bv2_11
+  - first:
+      213: 2557100829310749875
+    second: Inside_Bv2_12
+  - first:
+      213: -2555153278529167364
+    second: Inside_Bv2_13
+  - first:
+      213: 3149863370627523690
+    second: Inside_Bv2_14
+  - first:
+      213: -7994504698017016537
+    second: Inside_Bv2_15
+  - first:
+      213: 3725010552863955416
+    second: Inside_Bv2_16
+  - first:
+      213: 3549318438099342687
+    second: Inside_Bv2_17
+  - first:
+      213: 7709903043160674283
+    second: Inside_Bv2_18
+  - first:
+      213: 116006272078290049
+    second: Inside_Bv2_19
+  - first:
+      213: 1935579284357744539
+    second: Inside_Bv2_20
+  - first:
+      213: -6204083095492796599
+    second: Inside_Bv2_21
+  - first:
+      213: 8533785414260242557
+    second: Inside_Bv2_22
+  - first:
+      213: -2363563742223942062
+    second: Inside_Bv2_23
+  - first:
+      213: -5896779882124446395
+    second: Inside_Bv2_24
+  - first:
+      213: 5303687171047863422
+    second: Inside_Bv2_25
+  - first:
+      213: -1150740997612643609
+    second: Inside_Bv2_26
+  - first:
+      213: -5290396002003787977
+    second: Inside_Bv2_27
+  - first:
+      213: -4556512356492916930
+    second: Inside_Bv2_28
+  - first:
+      213: -5352428376406087150
+    second: Inside_Bv2_29
+  - first:
+      213: -3317079463880370509
+    second: Inside_Bv2_30
+  - first:
+      213: -2805485335302341000
+    second: Inside_Bv2_31
+  - first:
+      213: -6258992644713295282
+    second: Inside_Bv2_32
+  - first:
+      213: 3189176092120411754
+    second: Inside_Bv2_33
+  - first:
+      213: 2635655058355493962
+    second: Inside_Bv2_34
+  - first:
+      213: -4239036412431069100
+    second: Inside_Bv2_35
+  - first:
+      213: 4986053352147803222
+    second: Inside_Bv2_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inside_Bv2_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 704
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e8f90b9a9035a20800000000000000
+      internalID: 3049791997077327393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 671
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e4027e755b46f20800000000000000
+      internalID: 3415053806598114902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 730
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa570d2a71adbc00800000000000000
+      internalID: 918067445166987939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 730
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e89e4f26ae4fe5c0800000000000000
+      internalID: -4184039053138683675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 751
+        width: 54
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876f0acf799e0d040800000000000000
+      internalID: 4670489652570945144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 683
+        width: 241
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a017f5bf888012210800000000000000
+      internalID: 1306334751340065034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 673
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00f1c2ab96b42ce0800000000000000
+      internalID: -1430818002030170099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_7
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 576
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c283762783044c460800000000000000
+      internalID: 7260999110409795628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_8
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 576
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686cc59813aaf4110800000000000000
+      internalID: 1247402751539594886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 432
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c347f7a7a0f8000800000000000000
+      internalID: 40262442910235702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_10
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 480
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c88737281b53180800000000000000
+      internalID: -9136201095210038142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 354
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1c32be77b80f7d0800000000000000
+      internalID: -2886654013982129676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_12
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 353
+        width: 49
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc8ce9f7a5ac7320800000000000000
+      internalID: 2557100829310749875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 431
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff189681a54a8cd0800000000000000
+      internalID: -2555153278529167364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 293
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64a4410c0096bb20800000000000000
+      internalID: 3149863370627523690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 249
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72511877550dd0190800000000000000
+      internalID: -7994504698017016537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_16
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 287
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d99904ac55e1b330800000000000000
+      internalID: 3725010552863955416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 216
+        width: 182
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55d7a97056b14130800000000000000
+      internalID: 3549318438099342687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_18
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 256
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef8b4c08f31ffa60800000000000000
+      internalID: 7709903043160674283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_19
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 213
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c91fef6132c9100800000000000000
+      internalID: 116006272078290049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_20
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 200
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b978fbe9a1f8cda10800000000000000
+      internalID: 1935579284357744539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 162
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f55289b4ba6e9a0800000000000000
+      internalID: -6204083095492796599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 163
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78346ece981e6670800000000000000
+      internalID: 8533785414260242557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_23
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 163
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ebfb49c4fe23fd0800000000000000
+      internalID: -2363563742223942062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_24
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 127
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5457d4f80fd6a2ea0800000000000000
+      internalID: -5896779882124446395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_25
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 143
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74ba16c16b7a9940800000000000000
+      internalID: 5303687171047863422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_26
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 125
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ead1d8d82fb700f0800000000000000
+      internalID: -1150740997612643609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_27
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 126
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fda6baddcb496b0800000000000000
+      internalID: -5290396002003787977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_28
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 96
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37cf88372404c0c0800000000000000
+      internalID: -4556512356492916930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 106
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a289200ca58b5b0800000000000000
+      internalID: -5352428376406087150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_30
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2
+        width: 193
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6daaf5dcd57f1d0800000000000000
+      internalID: -3317079463880370509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_31
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e7cbe93f9e019d0800000000000000
+      internalID: -2805485335302341000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42d418e9579329a0800000000000000
+      internalID: -6258992644713295282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 48
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e610142ca324c20800000000000000
+      internalID: 3189176092120411754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 12
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c9dbfaf4ab39420800000000000000
+      internalID: 2635655058355493962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_35
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 37
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450991f97daeb25c0800000000000000
+      internalID: -4239036412431069100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inside_Bv2_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c5ae54b15023540800000000000000
+      internalID: 4986053352147803222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Inside_Bv2_0: 3049791997077327393
+      Inside_Bv2_1: 3415053806598114902
+      Inside_Bv2_10: -9136201095210038142
+      Inside_Bv2_11: -2886654013982129676
+      Inside_Bv2_12: 2557100829310749875
+      Inside_Bv2_13: -2555153278529167364
+      Inside_Bv2_14: 3149863370627523690
+      Inside_Bv2_15: -7994504698017016537
+      Inside_Bv2_16: 3725010552863955416
+      Inside_Bv2_17: 3549318438099342687
+      Inside_Bv2_18: 7709903043160674283
+      Inside_Bv2_19: 116006272078290049
+      Inside_Bv2_2: 918067445166987939
+      Inside_Bv2_20: 1935579284357744539
+      Inside_Bv2_21: -6204083095492796599
+      Inside_Bv2_22: 8533785414260242557
+      Inside_Bv2_23: -2363563742223942062
+      Inside_Bv2_24: -5896779882124446395
+      Inside_Bv2_25: 5303687171047863422
+      Inside_Bv2_26: -1150740997612643609
+      Inside_Bv2_27: -5290396002003787977
+      Inside_Bv2_28: -4556512356492916930
+      Inside_Bv2_29: -5352428376406087150
+      Inside_Bv2_3: -4184039053138683675
+      Inside_Bv2_30: -3317079463880370509
+      Inside_Bv2_31: -2805485335302341000
+      Inside_Bv2_32: -6258992644713295282
+      Inside_Bv2_33: 3189176092120411754
+      Inside_Bv2_34: 2635655058355493962
+      Inside_Bv2_35: -4239036412431069100
+      Inside_Bv2_36: 4986053352147803222
+      Inside_Bv2_4: 4670489652570945144
+      Inside_Bv2_5: 1306334751340065034
+      Inside_Bv2_6: -1430818002030170099
+      Inside_Bv2_7: 7260999110409795628
+      Inside_Bv2_8: 1247402751539594886
+      Inside_Bv2_9: 40262442910235702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

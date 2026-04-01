@@ -69,7 +69,6 @@ namespace TransitionsPlus
             summaryUI = null;
             ribbonUI = null;
 
-            // Cài đặt hiệu ứng chuyển cảnh
             Gradient gradient = new Gradient();
             gradient.SetKeys(
                 new GradientColorKey[] {

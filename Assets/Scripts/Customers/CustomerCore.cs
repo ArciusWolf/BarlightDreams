@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.*;
 using Pathfinding;
 using DamageNumbersPro;
 
@@ -130,7 +131,7 @@ public class CustomerCore : MonoBehaviour
             return;
         }
 
-        var chairs = new System.Collections.Generic.List<Chair>(ChairManager.Instance.chairs);
+        var chairs = new List<Chair>(ChairManager.Instance.chairs);
         int n = chairs.Count;
 
         for (int i = 0; i < n - 1; i++)

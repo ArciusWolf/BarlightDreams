@@ -58,7 +58,7 @@ public class MixingSystem : MonoBehaviour
 
     private IEnumerator FinalizeMixCoroutine()
     {
-        yield return new WaitForSeconds(0.3f); // delay nhỏ cho cảm giác "hoàn tất"
+        yield return new WaitForSeconds(0.3f); // delay
         List<IngredientSO> selectedIngredients = PlayerManager.Instance.selectedIngredients;
         bool isRecipeFound = false;
 

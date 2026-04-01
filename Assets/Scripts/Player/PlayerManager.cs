@@ -115,7 +115,6 @@ public class PlayerManager : MonoBehaviour
 
         if (fx == null || !fx)
         {
-            // Nếu object gốc bị phá hủy sau khi LoadScene thì tạo lại từ prefab
             if (effectObject == moneyEffect && moneyEffectPrefab != null)
             {
                 fx = Instantiate(moneyEffectPrefab, transform);
@@ -128,7 +127,7 @@ public class PlayerManager : MonoBehaviour
             }
             else
             {
-                return; // Không có prefab nào để tạo lại
+                return;
             }
         }
 
